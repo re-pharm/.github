@@ -4,7 +4,7 @@ Re:Pharm 프로젝트는 *2023 공개 소프트웨어 개발자 대회*를 계�
 
 ### 팀원으로 참여하고 싶어요!
 
-[2023 공개 소프트웨어 개발자 대회 Q&A](https://www.oss.kr/dev_competition_notice/show/de1ac49a-1970-40c4-a32e-4b0501d2c319)에 따르면, 1차 심사 전에는 팀원 변경이 가능하므로 간단한 포트폴리오<sup>GitHub 링크, Notion, 개인 웹사이트 등</sup>와 함께 어떤 분야로 참여하고 싶으신지에 관해 [X 계정(트위터)](https://twitter.com/paperbox_update) 혹은 [이메일](mailto:lego37yoon@outlook.com)로 연락 주시면 참여하실 수 있도록 검토하겠습니다. 결과 보고서 작성, 실질적인 개발 참여 가능 기간 등의 사유로 인해 **8월 20일**까지만 요청을 받습니다.
+[2023 공개 소프트웨어 개발자 대회 Q&A](https://www.oss.kr/dev_competition_notice/show/de1ac49a-1970-40c4-a32e-4b0501d2c319)에 따르면, 1차 심사 전에는 팀원 변경이 가능하므로 간단한 포트폴리오<sup>GitHub 링크, Notion, 개인 웹사이트 등</sup>와 함께 어떤 분야로 참여하고 싶으신지에 관해 [X 계정(트위터)](https://twitter.com/paperbox_update) 혹은 [이메일](mailto:lego37yoon@outlook.com)로 연락 주시면 참여하실 수 있도록 검토하겠습니다. 결과 보고서 작성, 실질적인 개발 참여 가능 기간 등의 사유로 인해 **8월 31일**까지만 요청을 받습니다.
 
 2023 공개 소프트웨어 개발자 대회 탈락 혹은 종료 이후에는 언제든지 팀원으로 참여가 가능하며, 관련하여 변경 사항 발생 시 이곳에 다시 공지하도록 하겠습니다.
 
